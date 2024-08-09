@@ -1,0 +1,37 @@
+---
+title: "Felipe Barrios - Mi Historia"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+# Bienvenido a Mi Blog
+
+Hola, soy Felipe Barrios, un joven de 24 años con una pasión profunda por la economía y el análisis financiero. Nací en la vibrante ciudad de Barranquilla, Colombia, en el año 1999, y he vivido aquí toda mi vida. Barranquilla,,.
+
+## Mi Trayectoria Académica
+
+Me gradué de Economía en la Universidad del Norte. Durante mi tiempo en la universidad, me especialicé en el estudio de las finanzas y la economía del desarrollo, áreas que despertaron en mí un interés particular por el impacto económico a nivel local y global.
+
+Mi experiencia académica en la Universidad del Norte no solo me proporcionó un profundo conocimiento teórico, sino que también me brindó oportunidades para participar en proyectos de investigación que abordaban problemas económicos reales. 
+
+## Pasión por el Conocimiento
+
+Más allá de la academia, siempre he sido un ávido lector y un curioso por naturaleza. Me interesa explorar cómo la economía afecta la vida cotidiana de las personas y cómo las políticas económicas pueden ser utilizadas para mejorar la sociedad.
+.
+
+
+
+
+Gracias por visitar mi blog. Espero que disfrutes de la lectura tanto como yo disfruto compartiendo mis ideas y experiencias contigo.
+
+---
+
+_Felipe Barrios_
+---

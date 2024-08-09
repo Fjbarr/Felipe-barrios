@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Felipe Barrios - Mi Historia",
+    "section": "",
+    "text": "Hola, soy Felipe Barrios, un joven de 24 años con una pasión profunda por la economía y el análisis financiero. Nací en la vibrante ciudad de Barranquilla, Colombia, en el año 1999, y he vivido aquí toda mi vida. Barranquilla,,.\n\n\nMe gradué de Economía en la Universidad del Norte. Durante mi tiempo en la universidad, me especialicé en el estudio de las finanzas y la economía del desarrollo, áreas que despertaron en mí un interés particular por el impacto económico a nivel local y global.\nMi experiencia académica en la Universidad del Norte no solo me proporcionó un profundo conocimiento teórico, sino que también me brindó oportunidades para participar en proyectos de investigación que abordaban problemas económicos reales.\n\n\n\nMás allá de la academia, siempre he sido un ávido lector y un curioso por naturaleza. Me interesa explorar cómo la economía afecta la vida cotidiana de las personas y cómo las políticas económicas pueden ser utilizadas para mejorar la sociedad. .\nGracias por visitar mi blog. Espero que disfrutes de la lectura tanto como yo disfruto compartiendo mis ideas y experiencias contigo.\n\nFelipe Barrios"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html#mi-trayectoria-académica",
+    "href": "index.html#mi-trayectoria-académica",
+    "title": "Felipe Barrios - Mi Historia",
+    "section": "",
+    "text": "Me gradué de Economía en la Universidad del Norte. Durante mi tiempo en la universidad, me especialicé en el estudio de las finanzas y la economía del desarrollo, áreas que despertaron en mí un interés particular por el impacto económico a nivel local y global.\nMi experiencia académica en la Universidad del Norte no solo me proporcionó un profundo conocimiento teórico, sino que también me brindó oportunidades para participar en proyectos de investigación que abordaban problemas económicos reales."
+  },
+  {
+    "objectID": "index.html#pasión-por-el-conocimiento",
+    "href": "index.html#pasión-por-el-conocimiento",
+    "title": "Felipe Barrios - Mi Historia",
+    "section": "",
+    "text": "Más allá de la academia, siempre he sido un ávido lector y un curioso por naturaleza. Me interesa explorar cómo la economía afecta la vida cotidiana de las personas y cómo las políticas económicas pueden ser utilizadas para mejorar la sociedad. .\nGracias por visitar mi blog. Espero que disfrutes de la lectura tanto como yo disfruto compartiendo mis ideas y experiencias contigo.\n\nFelipe Barrios"
+  }
+]
