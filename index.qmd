@@ -1,5 +1,5 @@
 ---
-title: "Felipe Barrios - Mi Historia"
+title: "Felipe Barrios"
 listing:
   contents: posts
   sort: "date desc"
@@ -26,7 +26,7 @@ Mi experiencia académica en la Universidad del Norte no solo me proporcionó un
 Más allá de la academia, siempre he sido un ávido lector y un curioso por naturaleza. Me interesa explorar cómo la economía afecta la vida cotidiana de las personas y cómo las políticas económicas pueden ser utilizadas para mejorar la sociedad.
 .
 
-
+  
 
 
 Gracias por visitar mi blog. Espero que disfrutes de la lectura tanto como yo disfruto compartiendo mis ideas y experiencias contigo.
